@@ -1,0 +1,1254 @@
+{
+  "transactions": [
+    {
+      "transactionId": "TXN-SMB001-7806",
+      "customerId": "SMB001",
+      "date": "2024-12-31",
+      "category": "Marketing",
+      "subcategory": "Event Sponsorship",
+      "amount": -663.42,
+      "balance": 84382.98,
+      "description": "Event Sponsorship - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-2759",
+      "customerId": "SMB001",
+      "date": "2025-01-03",
+      "category": "Operational",
+      "subcategory": "Office Supplies",
+      "amount": -106.3,
+      "balance": 84276.68,
+      "description": "Office Supplies - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-3188",
+      "customerId": "SMB001",
+      "date": "2025-01-10",
+      "category": "Operational",
+      "subcategory": "Software Subscription",
+      "amount": -1539.7,
+      "balance": 82736.98,
+      "description": "Software Subscription - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-9245",
+      "customerId": "SMB001",
+      "date": "2025-01-10",
+      "category": "Marketing",
+      "subcategory": "Promotional Discount",
+      "amount": -765.89,
+      "balance": 81971.09,
+      "description": "Promotional Discount - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-5362",
+      "customerId": "SMB001",
+      "date": "2025-01-10",
+      "category": "Operational",
+      "subcategory": "Office Supplies",
+      "amount": -106.77,
+      "balance": 81864.32,
+      "description": "Office Supplies - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-1692",
+      "customerId": "SMB001",
+      "date": "2025-01-12",
+      "category": "Expenses",
+      "subcategory": "Rent Payment",
+      "amount": -4012.25,
+      "balance": 77852.07,
+      "description": "Rent Payment - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-2656",
+      "customerId": "SMB001",
+      "date": "2025-01-20",
+      "category": "Operational",
+      "subcategory": "Maintenance Cost",
+      "amount": -962.07,
+      "balance": 76890.0,
+      "description": "Maintenance Cost - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-5462",
+      "customerId": "SMB001",
+      "date": "2025-01-27",
+      "category": "Expenses",
+      "subcategory": "Rent Payment",
+      "amount": -4718.71,
+      "balance": 72171.29,
+      "description": "Rent Payment - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-2043",
+      "customerId": "SMB001",
+      "date": "2025-01-29",
+      "category": "Operational",
+      "subcategory": "Maintenance Cost",
+      "amount": -1512.96,
+      "balance": 70658.33,
+      "description": "Maintenance Cost - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-8719",
+      "customerId": "SMB001",
+      "date": "2025-02-02",
+      "category": "Payroll",
+      "subcategory": "Payroll Taxes",
+      "amount": -2806.36,
+      "balance": 67851.97,
+      "description": "Payroll Taxes - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-6532",
+      "customerId": "SMB001",
+      "date": "2025-02-10",
+      "category": "Payroll",
+      "subcategory": "Bonus Payment",
+      "amount": -4220.74,
+      "balance": 63631.23,
+      "description": "Bonus Payment - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-6506",
+      "customerId": "SMB001",
+      "date": "2025-02-15",
+      "category": "Marketing",
+      "subcategory": "Ad Campaign",
+      "amount": -1235.59,
+      "balance": 62395.64,
+      "description": "Ad Campaign - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-3611",
+      "customerId": "SMB001",
+      "date": "2025-02-17",
+      "category": "Expenses",
+      "subcategory": "Supplier Payment",
+      "amount": -4782.39,
+      "balance": 57613.25,
+      "description": "Supplier Payment - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-9400",
+      "customerId": "SMB001",
+      "date": "2025-02-21",
+      "category": "Payroll",
+      "subcategory": "Staff Salary",
+      "amount": -4599.32,
+      "balance": 53013.93,
+      "description": "Staff Salary - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-2946",
+      "customerId": "SMB001",
+      "date": "2025-02-22",
+      "category": "Marketing",
+      "subcategory": "Social Media Promotion",
+      "amount": -1281.66,
+      "balance": 51732.27,
+      "description": "Social Media Promotion - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-1999",
+      "customerId": "SMB001",
+      "date": "2025-02-23",
+      "category": "Operational",
+      "subcategory": "Office Supplies",
+      "amount": -944.98,
+      "balance": 50787.29,
+      "description": "Office Supplies - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-8634",
+      "customerId": "SMB001",
+      "date": "2025-02-24",
+      "category": "Marketing",
+      "subcategory": "Ad Campaign",
+      "amount": -295.28,
+      "balance": 50492.01,
+      "description": "Ad Campaign - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-6342",
+      "customerId": "SMB001",
+      "date": "2025-02-25",
+      "category": "Operational",
+      "subcategory": "Office Supplies",
+      "amount": -162.58,
+      "balance": 50329.43,
+      "description": "Office Supplies - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-4883",
+      "customerId": "SMB001",
+      "date": "2025-03-01",
+      "category": "Expenses",
+      "subcategory": "Rent Payment",
+      "amount": -1582.53,
+      "balance": 48746.9,
+      "description": "Rent Payment - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-9844",
+      "customerId": "SMB001",
+      "date": "2025-03-01",
+      "category": "Payments",
+      "subcategory": "Customer Payment",
+      "amount": 1148.93,
+      "balance": 49895.83,
+      "description": "Customer Payment - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-3484",
+      "customerId": "SMB001",
+      "date": "2025-03-11",
+      "category": "Operational",
+      "subcategory": "Maintenance Cost",
+      "amount": -1902.51,
+      "balance": 47993.32,
+      "description": "Maintenance Cost - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-4298",
+      "customerId": "SMB001",
+      "date": "2025-03-12",
+      "category": "Operational",
+      "subcategory": "Equipment Purchase",
+      "amount": -1642.67,
+      "balance": 46350.65,
+      "description": "Equipment Purchase - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-8076",
+      "customerId": "SMB001",
+      "date": "2025-03-15",
+      "category": "Payments",
+      "subcategory": "Invoice Payment",
+      "amount": 967.37,
+      "balance": 47318.02,
+      "description": "Invoice Payment - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-1401",
+      "customerId": "SMB001",
+      "date": "2025-03-21",
+      "category": "Expenses",
+      "subcategory": "Insurance Premium",
+      "amount": -3245.05,
+      "balance": 44072.97,
+      "description": "Insurance Premium - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB001-3531",
+      "customerId": "SMB001",
+      "date": "2025-03-21",
+      "category": "Payments",
+      "subcategory": "Customer Payment",
+      "amount": 927.03,
+      "balance": 45000.0,
+      "description": "Customer Payment - Alex's Coffee Chain"
+    },
+    {
+      "transactionId": "TXN-SMB002-7552",
+      "customerId": "SMB002",
+      "date": "2024-12-28",
+      "category": "Operational",
+      "subcategory": "Software Subscription",
+      "amount": -413.48,
+      "balance": 242600.6,
+      "description": "Software Subscription - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-2018",
+      "customerId": "SMB002",
+      "date": "2024-12-29",
+      "category": "Marketing",
+      "subcategory": "Marketing Materials",
+      "amount": -3976.92,
+      "balance": 238623.68,
+      "description": "Marketing Materials - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-7401",
+      "customerId": "SMB002",
+      "date": "2025-01-04",
+      "category": "Operational",
+      "subcategory": "Professional Services",
+      "amount": -3740.59,
+      "balance": 234883.09,
+      "description": "Professional Services - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-7754",
+      "customerId": "SMB002",
+      "date": "2025-01-11",
+      "category": "Expenses",
+      "subcategory": "Rent Payment",
+      "amount": -3684.93,
+      "balance": 231198.16,
+      "description": "Rent Payment - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-5557",
+      "customerId": "SMB002",
+      "date": "2025-01-22",
+      "category": "Payroll",
+      "subcategory": "Payroll Taxes",
+      "amount": -6187.7,
+      "balance": 225010.46,
+      "description": "Payroll Taxes - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-8281",
+      "customerId": "SMB002",
+      "date": "2025-01-26",
+      "category": "Operational",
+      "subcategory": "Office Supplies",
+      "amount": -4402.62,
+      "balance": 220607.84,
+      "description": "Office Supplies - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-6703",
+      "customerId": "SMB002",
+      "date": "2025-01-30",
+      "category": "Payroll",
+      "subcategory": "Staff Salary",
+      "amount": -13167.88,
+      "balance": 207439.96,
+      "description": "Staff Salary - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-3555",
+      "customerId": "SMB002",
+      "date": "2025-02-05",
+      "category": "Operational",
+      "subcategory": "Equipment Purchase",
+      "amount": -1191.14,
+      "balance": 206248.82,
+      "description": "Equipment Purchase - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-6162",
+      "customerId": "SMB002",
+      "date": "2025-02-08",
+      "category": "Payroll",
+      "subcategory": "Payroll Taxes",
+      "amount": -9799.71,
+      "balance": 196449.11,
+      "description": "Payroll Taxes - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-4306",
+      "customerId": "SMB002",
+      "date": "2025-02-10",
+      "category": "Marketing",
+      "subcategory": "Ad Campaign",
+      "amount": -2552.84,
+      "balance": 193896.27,
+      "description": "Ad Campaign - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-5811",
+      "customerId": "SMB002",
+      "date": "2025-02-10",
+      "category": "Marketing",
+      "subcategory": "Marketing Materials",
+      "amount": -1628.19,
+      "balance": 192268.08,
+      "description": "Marketing Materials - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-8431",
+      "customerId": "SMB002",
+      "date": "2025-02-15",
+      "category": "Operational",
+      "subcategory": "Software Subscription",
+      "amount": -606.46,
+      "balance": 191661.62,
+      "description": "Software Subscription - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-9269",
+      "customerId": "SMB002",
+      "date": "2025-02-19",
+      "category": "Payroll",
+      "subcategory": "Staff Salary",
+      "amount": -13499.06,
+      "balance": 178162.56,
+      "description": "Staff Salary - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-9138",
+      "customerId": "SMB002",
+      "date": "2025-02-23",
+      "category": "Marketing",
+      "subcategory": "Social Media Promotion",
+      "amount": -4677.51,
+      "balance": 173485.05,
+      "description": "Social Media Promotion - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-3130",
+      "customerId": "SMB002",
+      "date": "2025-02-23",
+      "category": "Expenses",
+      "subcategory": "Supplier Payment",
+      "amount": -6591.92,
+      "balance": 166893.13,
+      "description": "Supplier Payment - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-8347",
+      "customerId": "SMB002",
+      "date": "2025-03-04",
+      "category": "Payroll",
+      "subcategory": "Staff Salary",
+      "amount": -5754.98,
+      "balance": 161138.15,
+      "description": "Staff Salary - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-7815",
+      "customerId": "SMB002",
+      "date": "2025-03-06",
+      "category": "Marketing",
+      "subcategory": "Ad Campaign",
+      "amount": -1954.62,
+      "balance": 159183.53,
+      "description": "Ad Campaign - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-5760",
+      "customerId": "SMB002",
+      "date": "2025-03-08",
+      "category": "Operational",
+      "subcategory": "Office Supplies",
+      "amount": -4542.29,
+      "balance": 154641.24,
+      "description": "Office Supplies - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-5662",
+      "customerId": "SMB002",
+      "date": "2025-03-15",
+      "category": "Payroll",
+      "subcategory": "Payroll Taxes",
+      "amount": -14235.34,
+      "balance": 140405.9,
+      "description": "Payroll Taxes - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-2546",
+      "customerId": "SMB002",
+      "date": "2025-03-16",
+      "category": "Payroll",
+      "subcategory": "Commission Payout",
+      "amount": -6321.97,
+      "balance": 134083.93,
+      "description": "Commission Payout - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-6492",
+      "customerId": "SMB002",
+      "date": "2025-03-17",
+      "category": "Operational",
+      "subcategory": "Software Subscription",
+      "amount": -2626.22,
+      "balance": 131457.71,
+      "description": "Software Subscription - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-1580",
+      "customerId": "SMB002",
+      "date": "2025-03-19",
+      "category": "Expenses",
+      "subcategory": "Rent Payment",
+      "amount": -1518.64,
+      "balance": 129939.07,
+      "description": "Rent Payment - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-5651",
+      "customerId": "SMB002",
+      "date": "2025-03-20",
+      "category": "Operational",
+      "subcategory": "Maintenance Cost",
+      "amount": -1407.25,
+      "balance": 128531.82,
+      "description": "Maintenance Cost - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-8487",
+      "customerId": "SMB002",
+      "date": "2025-03-23",
+      "category": "Operational",
+      "subcategory": "Office Supplies",
+      "amount": -1752.2,
+      "balance": 126779.62,
+      "description": "Office Supplies - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB002-9556",
+      "customerId": "SMB002",
+      "date": "2025-03-27",
+      "category": "Expenses",
+      "subcategory": "Utility Bill",
+      "amount": -6779.62,
+      "balance": 120000.0,
+      "description": "Utility Bill - TechStart Solutions"
+    },
+    {
+      "transactionId": "TXN-SMB003-3600",
+      "customerId": "SMB003",
+      "date": "2025-01-01",
+      "category": "Expenses",
+      "subcategory": "Supplier Payment",
+      "amount": -18905.32,
+      "balance": 135773.48,
+      "description": "Supplier Payment - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-9382",
+      "customerId": "SMB003",
+      "date": "2025-01-10",
+      "category": "Payroll",
+      "subcategory": "Staff Salary",
+      "amount": -2834.39,
+      "balance": 132939.09,
+      "description": "Staff Salary - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-7915",
+      "customerId": "SMB003",
+      "date": "2025-01-12",
+      "category": "Marketing",
+      "subcategory": "Event Sponsorship",
+      "amount": -484.07,
+      "balance": 132455.02,
+      "description": "Event Sponsorship - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-3456",
+      "customerId": "SMB003",
+      "date": "2025-01-15",
+      "category": "Payments",
+      "subcategory": "Customer Payment",
+      "amount": 563.69,
+      "balance": 133018.71,
+      "description": "Customer Payment - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-7254",
+      "customerId": "SMB003",
+      "date": "2025-01-19",
+      "category": "Payments",
+      "subcategory": "Service Fee",
+      "amount": 414.31,
+      "balance": 133433.02,
+      "description": "Service Fee - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-3576",
+      "customerId": "SMB003",
+      "date": "2025-01-26",
+      "category": "Expenses",
+      "subcategory": "Utility Bill",
+      "amount": -10348.39,
+      "balance": 123084.63,
+      "description": "Utility Bill - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-1343",
+      "customerId": "SMB003",
+      "date": "2025-02-01",
+      "category": "Expenses",
+      "subcategory": "Insurance Premium",
+      "amount": -18541.75,
+      "balance": 104542.88,
+      "description": "Insurance Premium - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-8773",
+      "customerId": "SMB003",
+      "date": "2025-02-03",
+      "category": "Expenses",
+      "subcategory": "Insurance Premium",
+      "amount": -8895.37,
+      "balance": 95647.51,
+      "description": "Insurance Premium - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-2608",
+      "customerId": "SMB003",
+      "date": "2025-02-08",
+      "category": "Marketing",
+      "subcategory": "Ad Campaign",
+      "amount": -499.06,
+      "balance": 95148.45,
+      "description": "Ad Campaign - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-1769",
+      "customerId": "SMB003",
+      "date": "2025-02-08",
+      "category": "Expenses",
+      "subcategory": "Insurance Premium",
+      "amount": -16654.64,
+      "balance": 78493.81,
+      "description": "Insurance Premium - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-9296",
+      "customerId": "SMB003",
+      "date": "2025-02-10",
+      "category": "Payroll",
+      "subcategory": "Payroll Taxes",
+      "amount": -1623.33,
+      "balance": 76870.48,
+      "description": "Payroll Taxes - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-2972",
+      "customerId": "SMB003",
+      "date": "2025-02-18",
+      "category": "Expenses",
+      "subcategory": "Inventory Purchase",
+      "amount": -10441.56,
+      "balance": 66428.92,
+      "description": "Inventory Purchase - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-1067",
+      "customerId": "SMB003",
+      "date": "2025-02-23",
+      "category": "Operational",
+      "subcategory": "Professional Services",
+      "amount": -2559.62,
+      "balance": 63869.3,
+      "description": "Professional Services - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-2671",
+      "customerId": "SMB003",
+      "date": "2025-02-24",
+      "category": "Marketing",
+      "subcategory": "Ad Campaign",
+      "amount": -542.62,
+      "balance": 63326.68,
+      "description": "Ad Campaign - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-2720",
+      "customerId": "SMB003",
+      "date": "2025-02-24",
+      "category": "Expenses",
+      "subcategory": "Supplier Payment",
+      "amount": -5408.91,
+      "balance": 57917.77,
+      "description": "Supplier Payment - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-1271",
+      "customerId": "SMB003",
+      "date": "2025-02-25",
+      "category": "Expenses",
+      "subcategory": "Utility Bill",
+      "amount": -11609.87,
+      "balance": 46307.9,
+      "description": "Utility Bill - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-1397",
+      "customerId": "SMB003",
+      "date": "2025-02-26",
+      "category": "Expenses",
+      "subcategory": "Utility Bill",
+      "amount": -14504.38,
+      "balance": 31803.52,
+      "description": "Utility Bill - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-9774",
+      "customerId": "SMB003",
+      "date": "2025-02-27",
+      "category": "Payments",
+      "subcategory": "Customer Payment",
+      "amount": 476.18,
+      "balance": 32279.7,
+      "description": "Customer Payment - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-5734",
+      "customerId": "SMB003",
+      "date": "2025-03-01",
+      "category": "Operational",
+      "subcategory": "Professional Services",
+      "amount": -2399.41,
+      "balance": 29880.29,
+      "description": "Professional Services - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-9254",
+      "customerId": "SMB003",
+      "date": "2025-03-01",
+      "category": "Marketing",
+      "subcategory": "Marketing Materials",
+      "amount": -274.79,
+      "balance": 29605.5,
+      "description": "Marketing Materials - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-1416",
+      "customerId": "SMB003",
+      "date": "2025-03-05",
+      "category": "Operational",
+      "subcategory": "Maintenance Cost",
+      "amount": -1843.3,
+      "balance": 27762.2,
+      "description": "Maintenance Cost - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-7129",
+      "customerId": "SMB003",
+      "date": "2025-03-17",
+      "category": "Payments",
+      "subcategory": "Online Sales",
+      "amount": 367.1,
+      "balance": 28129.3,
+      "description": "Online Sales - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-9944",
+      "customerId": "SMB003",
+      "date": "2025-03-20",
+      "category": "Payments",
+      "subcategory": "Subscription Revenue",
+      "amount": 465.52,
+      "balance": 28594.82,
+      "description": "Subscription Revenue - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-6594",
+      "customerId": "SMB003",
+      "date": "2025-03-21",
+      "category": "Marketing",
+      "subcategory": "Event Sponsorship",
+      "amount": -110.82,
+      "balance": 28484.0,
+      "description": "Event Sponsorship - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB003-1489",
+      "customerId": "SMB003",
+      "date": "2025-03-21",
+      "category": "Operational",
+      "subcategory": "Software Subscription",
+      "amount": -484.0,
+      "balance": 28000.0,
+      "description": "Software Subscription - Fresh Harvest Market"
+    },
+    {
+      "transactionId": "TXN-SMB004-5631",
+      "customerId": "SMB004",
+      "date": "2024-12-28",
+      "category": "Payroll",
+      "subcategory": "Contractor Payment",
+      "amount": -1846.73,
+      "balance": 121965.4,
+      "description": "Contractor Payment - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-4835",
+      "customerId": "SMB004",
+      "date": "2024-12-30",
+      "category": "Payroll",
+      "subcategory": "Commission Payout",
+      "amount": -2001.49,
+      "balance": 119963.91,
+      "description": "Commission Payout - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-4843",
+      "customerId": "SMB004",
+      "date": "2024-12-31",
+      "category": "Marketing",
+      "subcategory": "Promotional Discount",
+      "amount": -313.02,
+      "balance": 119650.89,
+      "description": "Promotional Discount - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-4270",
+      "customerId": "SMB004",
+      "date": "2025-01-01",
+      "category": "Payroll",
+      "subcategory": "Payroll Taxes",
+      "amount": -5052.58,
+      "balance": 114598.31,
+      "description": "Payroll Taxes - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-2033",
+      "customerId": "SMB004",
+      "date": "2025-01-05",
+      "category": "Payments",
+      "subcategory": "Subscription Revenue",
+      "amount": 69.17,
+      "balance": 114667.48,
+      "description": "Subscription Revenue - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-6916",
+      "customerId": "SMB004",
+      "date": "2025-01-06",
+      "category": "Marketing",
+      "subcategory": "Promotional Discount",
+      "amount": -1567.6,
+      "balance": 113099.88,
+      "description": "Promotional Discount - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-7828",
+      "customerId": "SMB004",
+      "date": "2025-01-13",
+      "category": "Operational",
+      "subcategory": "Equipment Purchase",
+      "amount": -7679.0,
+      "balance": 105420.88,
+      "description": "Equipment Purchase - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-1116",
+      "customerId": "SMB004",
+      "date": "2025-01-14",
+      "category": "Operational",
+      "subcategory": "Software Subscription",
+      "amount": -2585.28,
+      "balance": 102835.6,
+      "description": "Software Subscription - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-6780",
+      "customerId": "SMB004",
+      "date": "2025-01-14",
+      "category": "Expenses",
+      "subcategory": "Supplier Payment",
+      "amount": -498.84,
+      "balance": 102336.76,
+      "description": "Supplier Payment - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-5690",
+      "customerId": "SMB004",
+      "date": "2025-01-17",
+      "category": "Marketing",
+      "subcategory": "Social Media Promotion",
+      "amount": -2285.68,
+      "balance": 100051.08,
+      "description": "Social Media Promotion - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-6665",
+      "customerId": "SMB004",
+      "date": "2025-01-17",
+      "category": "Marketing",
+      "subcategory": "Promotional Discount",
+      "amount": -1094.05,
+      "balance": 98957.03,
+      "description": "Promotional Discount - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-4261",
+      "customerId": "SMB004",
+      "date": "2025-01-19",
+      "category": "Marketing",
+      "subcategory": "Event Sponsorship",
+      "amount": -1483.59,
+      "balance": 97473.44,
+      "description": "Event Sponsorship - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-2092",
+      "customerId": "SMB004",
+      "date": "2025-01-29",
+      "category": "Operational",
+      "subcategory": "Office Supplies",
+      "amount": -812.61,
+      "balance": 96660.83,
+      "description": "Office Supplies - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-7413",
+      "customerId": "SMB004",
+      "date": "2025-02-03",
+      "category": "Marketing",
+      "subcategory": "Social Media Promotion",
+      "amount": -2481.76,
+      "balance": 94179.07,
+      "description": "Social Media Promotion - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-7310",
+      "customerId": "SMB004",
+      "date": "2025-02-06",
+      "category": "Payments",
+      "subcategory": "Subscription Revenue",
+      "amount": 268.91,
+      "balance": 94447.98,
+      "description": "Subscription Revenue - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-8851",
+      "customerId": "SMB004",
+      "date": "2025-02-09",
+      "category": "Operational",
+      "subcategory": "Office Supplies",
+      "amount": -4007.74,
+      "balance": 90440.24,
+      "description": "Office Supplies - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-9068",
+      "customerId": "SMB004",
+      "date": "2025-02-13",
+      "category": "Operational",
+      "subcategory": "Equipment Purchase",
+      "amount": -2430.31,
+      "balance": 88009.93,
+      "description": "Equipment Purchase - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-2850",
+      "customerId": "SMB004",
+      "date": "2025-02-17",
+      "category": "Payroll",
+      "subcategory": "Bonus Payment",
+      "amount": -4135.41,
+      "balance": 83874.52,
+      "description": "Bonus Payment - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-9915",
+      "customerId": "SMB004",
+      "date": "2025-02-19",
+      "category": "Operational",
+      "subcategory": "Equipment Purchase",
+      "amount": -784.34,
+      "balance": 83090.18,
+      "description": "Equipment Purchase - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-5157",
+      "customerId": "SMB004",
+      "date": "2025-02-25",
+      "category": "Operational",
+      "subcategory": "Equipment Purchase",
+      "amount": -4506.62,
+      "balance": 78583.56,
+      "description": "Equipment Purchase - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-6007",
+      "customerId": "SMB004",
+      "date": "2025-02-27",
+      "category": "Marketing",
+      "subcategory": "Marketing Materials",
+      "amount": -2219.22,
+      "balance": 76364.34,
+      "description": "Marketing Materials - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-9238",
+      "customerId": "SMB004",
+      "date": "2025-03-02",
+      "category": "Payroll",
+      "subcategory": "Contractor Payment",
+      "amount": -7878.43,
+      "balance": 68485.91,
+      "description": "Contractor Payment - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-8839",
+      "customerId": "SMB004",
+      "date": "2025-03-02",
+      "category": "Operational",
+      "subcategory": "Equipment Purchase",
+      "amount": -983.17,
+      "balance": 67502.74,
+      "description": "Equipment Purchase - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-6764",
+      "customerId": "SMB004",
+      "date": "2025-03-08",
+      "category": "Operational",
+      "subcategory": "Software Subscription",
+      "amount": -5896.93,
+      "balance": 61605.81,
+      "description": "Software Subscription - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB004-8408",
+      "customerId": "SMB004",
+      "date": "2025-03-16",
+      "category": "Payroll",
+      "subcategory": "Staff Salary",
+      "amount": -6605.81,
+      "balance": 55000.0,
+      "description": "Staff Salary - Wellness Hub"
+    },
+    {
+      "transactionId": "TXN-SMB005-5405",
+      "customerId": "SMB005",
+      "date": "2024-12-31",
+      "category": "Payments",
+      "subcategory": "Customer Payment",
+      "amount": 5431.94,
+      "balance": 88080.43,
+      "description": "Customer Payment - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-3507",
+      "customerId": "SMB005",
+      "date": "2024-12-31",
+      "category": "Expenses",
+      "subcategory": "Utility Bill",
+      "amount": -7831.08,
+      "balance": 80249.35,
+      "description": "Utility Bill - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-1241",
+      "customerId": "SMB005",
+      "date": "2025-01-03",
+      "category": "Payroll",
+      "subcategory": "Commission Payout",
+      "amount": -3654.77,
+      "balance": 76594.58,
+      "description": "Commission Payout - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-5375",
+      "customerId": "SMB005",
+      "date": "2025-01-05",
+      "category": "Marketing",
+      "subcategory": "Marketing Materials",
+      "amount": -730.24,
+      "balance": 75864.34,
+      "description": "Marketing Materials - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-2006",
+      "customerId": "SMB005",
+      "date": "2025-01-06",
+      "category": "Marketing",
+      "subcategory": "Promotional Discount",
+      "amount": -774.56,
+      "balance": 75089.78,
+      "description": "Promotional Discount - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-5505",
+      "customerId": "SMB005",
+      "date": "2025-01-06",
+      "category": "Payments",
+      "subcategory": "Customer Payment",
+      "amount": 3074.05,
+      "balance": 78163.83,
+      "description": "Customer Payment - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-1175",
+      "customerId": "SMB005",
+      "date": "2025-01-07",
+      "category": "Expenses",
+      "subcategory": "Inventory Purchase",
+      "amount": -3021.7,
+      "balance": 75142.13,
+      "description": "Inventory Purchase - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-8784",
+      "customerId": "SMB005",
+      "date": "2025-01-07",
+      "category": "Payroll",
+      "subcategory": "Commission Payout",
+      "amount": -3989.09,
+      "balance": 71153.04,
+      "description": "Commission Payout - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-6582",
+      "customerId": "SMB005",
+      "date": "2025-01-10",
+      "category": "Marketing",
+      "subcategory": "Social Media Promotion",
+      "amount": -556.36,
+      "balance": 70596.68,
+      "description": "Social Media Promotion - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-5403",
+      "customerId": "SMB005",
+      "date": "2025-01-11",
+      "category": "Operational",
+      "subcategory": "Software Subscription",
+      "amount": -2996.36,
+      "balance": 67600.32,
+      "description": "Software Subscription - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-2749",
+      "customerId": "SMB005",
+      "date": "2025-01-16",
+      "category": "Marketing",
+      "subcategory": "Social Media Promotion",
+      "amount": -387.53,
+      "balance": 67212.79,
+      "description": "Social Media Promotion - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-8496",
+      "customerId": "SMB005",
+      "date": "2025-01-17",
+      "category": "Payments",
+      "subcategory": "Invoice Payment",
+      "amount": 6200.15,
+      "balance": 73412.94,
+      "description": "Invoice Payment - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-5216",
+      "customerId": "SMB005",
+      "date": "2025-01-19",
+      "category": "Expenses",
+      "subcategory": "Supplier Payment",
+      "amount": -3950.75,
+      "balance": 69462.19,
+      "description": "Supplier Payment - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-2700",
+      "customerId": "SMB005",
+      "date": "2025-01-29",
+      "category": "Payments",
+      "subcategory": "Subscription Revenue",
+      "amount": 2747.69,
+      "balance": 72209.88,
+      "description": "Subscription Revenue - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-4826",
+      "customerId": "SMB005",
+      "date": "2025-02-02",
+      "category": "Marketing",
+      "subcategory": "Ad Campaign",
+      "amount": -561.15,
+      "balance": 71648.73,
+      "description": "Ad Campaign - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-8286",
+      "customerId": "SMB005",
+      "date": "2025-02-03",
+      "category": "Operational",
+      "subcategory": "Professional Services",
+      "amount": -2088.1,
+      "balance": 69560.63,
+      "description": "Professional Services - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-7262",
+      "customerId": "SMB005",
+      "date": "2025-02-22",
+      "category": "Payroll",
+      "subcategory": "Contractor Payment",
+      "amount": -4497.2,
+      "balance": 65063.43,
+      "description": "Contractor Payment - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-5082",
+      "customerId": "SMB005",
+      "date": "2025-02-23",
+      "category": "Operational",
+      "subcategory": "Office Supplies",
+      "amount": -4201.02,
+      "balance": 60862.41,
+      "description": "Office Supplies - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-9553",
+      "customerId": "SMB005",
+      "date": "2025-02-26",
+      "category": "Operational",
+      "subcategory": "Maintenance Cost",
+      "amount": -1401.13,
+      "balance": 59461.28,
+      "description": "Maintenance Cost - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-4053",
+      "customerId": "SMB005",
+      "date": "2025-03-06",
+      "category": "Expenses",
+      "subcategory": "Insurance Premium",
+      "amount": -5616.95,
+      "balance": 53844.33,
+      "description": "Insurance Premium - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-9477",
+      "customerId": "SMB005",
+      "date": "2025-03-06",
+      "category": "Operational",
+      "subcategory": "Software Subscription",
+      "amount": -3459.84,
+      "balance": 50384.49,
+      "description": "Software Subscription - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-1073",
+      "customerId": "SMB005",
+      "date": "2025-03-09",
+      "category": "Payroll",
+      "subcategory": "Payroll Taxes",
+      "amount": -5691.24,
+      "balance": 44693.25,
+      "description": "Payroll Taxes - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-9437",
+      "customerId": "SMB005",
+      "date": "2025-03-18",
+      "category": "Expenses",
+      "subcategory": "Rent Payment",
+      "amount": -4436.14,
+      "balance": 40257.11,
+      "description": "Rent Payment - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-7604",
+      "customerId": "SMB005",
+      "date": "2025-03-22",
+      "category": "Expenses",
+      "subcategory": "Rent Payment",
+      "amount": -4405.99,
+      "balance": 35851.12,
+      "description": "Rent Payment - Urban Craftworks"
+    },
+    {
+      "transactionId": "TXN-SMB005-8578",
+      "customerId": "SMB005",
+      "date": "2025-03-27",
+      "category": "Operational",
+      "subcategory": "Software Subscription",
+      "amount": -851.12,
+      "balance": 35000.0,
+      "description": "Software Subscription - Urban Craftworks"
+    }
+  ]
+}

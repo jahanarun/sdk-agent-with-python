@@ -1,0 +1,194 @@
+{
+  "customers": [
+    {
+      "customerId": "SMB001",
+      "businessName": "Alex's Coffee Chain",
+      "industry": "Food & Beverage",
+      "businessType": "Coffee Shop Chain",
+      "yearEstablished": 2020,
+      "financialProfile": {
+        "currentBalance": 45000.00,
+        "outstandingLoans": [
+          {
+            "loanId": "L123",
+            "type": "Business Expansion",
+            "amount": 150000.00,
+            "remainingBalance": 85000.00,
+            "interestRate": 4.5,
+            "monthlyPayment": 3200.00,
+            "dueDate": "2025-12-31"
+          }
+        ],
+        "monthlyRevenue": {
+          "average": 75000.00,
+          "lastThreeMonths": [82000.00, 78000.00, 71000.00]
+        },
+        "monthlyExpenses": {
+          "inventory": 25000.00,
+          "payroll": 18000.00,
+          "rent": 8000.00,
+          "utilities": 2500.00,
+          "marketing": 1500.00
+        },
+        "creditScore": 720,
+        "paymentHistory": {
+          "onTimePayments": 24,
+          "latePayments": 1,
+          "averageDelay": 3
+        }
+      }
+    },
+    {
+      "customerId": "SMB002",
+      "businessName": "TechStart Solutions",
+      "industry": "Technology",
+      "businessType": "Software Development",
+      "yearEstablished": 2021,
+      "financialProfile": {
+        "currentBalance": 120000.00,
+        "outstandingLoans": [
+          {
+            "loanId": "L245",
+            "type": "Equipment Finance",
+            "amount": 50000.00,
+            "remainingBalance": 35000.00,
+            "interestRate": 5.0,
+            "monthlyPayment": 1500.00,
+            "dueDate": "2024-08-15"
+          }
+        ],
+        "monthlyRevenue": {
+          "average": 95000.00,
+          "lastThreeMonths": [98000.00, 92000.00, 95000.00]
+        },
+        "monthlyExpenses": {
+          "payroll": 45000.00,
+          "software_licenses": 5000.00,
+          "rent": 4000.00,
+          "utilities": 1000.00,
+          "marketing": 3000.00
+        },
+        "creditScore": 780,
+        "paymentHistory": {
+          "onTimePayments": 18,
+          "latePayments": 0,
+          "averageDelay": 0
+        }
+      }
+    },
+    {
+      "customerId": "SMB003",
+      "businessName": "Fresh Harvest Market",
+      "industry": "Retail",
+      "businessType": "Grocery Store",
+      "yearEstablished": 2019,
+      "financialProfile": {
+        "currentBalance": 28000.00,
+        "outstandingLoans": [
+          {
+            "loanId": "L789",
+            "type": "Working Capital",
+            "amount": 75000.00,
+            "remainingBalance": 45000.00,
+            "interestRate": 6.5,
+            "monthlyPayment": 2200.00,
+            "dueDate": "2024-12-31"
+          }
+        ],
+        "monthlyRevenue": {
+          "average": 65000.00,
+          "lastThreeMonths": [61000.00, 63000.00, 58000.00]
+        },
+        "monthlyExpenses": {
+          "inventory": 35000.00,
+          "payroll": 12000.00,
+          "rent": 5000.00,
+          "utilities": 2800.00,
+          "marketing": 800.00
+        },
+        "creditScore": 650,
+        "paymentHistory": {
+          "onTimePayments": 30,
+          "latePayments": 4,
+          "averageDelay": 8
+        }
+      }
+    },
+    {
+      "customerId": "SMB004",
+      "businessName": "Wellness Hub",
+      "industry": "Healthcare",
+      "businessType": "Fitness Center",
+      "yearEstablished": 2018,
+      "financialProfile": {
+        "currentBalance": 55000.00,
+        "outstandingLoans": [
+          {
+            "loanId": "L456",
+            "type": "Equipment Finance",
+            "amount": 200000.00,
+            "remainingBalance": 120000.00,
+            "interestRate": 5.5,
+            "monthlyPayment": 4500.00,
+            "dueDate": "2026-03-31"
+          }
+        ],
+        "monthlyRevenue": {
+          "average": 85000.00,
+          "lastThreeMonths": [88000.00, 86000.00, 83000.00]
+        },
+        "monthlyExpenses": {
+          "payroll": 25000.00,
+          "equipment_maintenance": 3000.00,
+          "rent": 12000.00,
+          "utilities": 3500.00,
+          "marketing": 2500.00
+        },
+        "creditScore": 700,
+        "paymentHistory": {
+          "onTimePayments": 48,
+          "latePayments": 2,
+          "averageDelay": 5
+        }
+      }
+    },
+    {
+      "customerId": "SMB005",
+      "businessName": "Urban Craftworks",
+      "industry": "Manufacturing",
+      "businessType": "Furniture Making",
+      "yearEstablished": 2017,
+      "financialProfile": {
+        "currentBalance": 35000.00,
+        "outstandingLoans": [
+          {
+            "loanId": "L901",
+            "type": "Business Expansion",
+            "amount": 180000.00,
+            "remainingBalance": 150000.00,
+            "interestRate": 5.8,
+            "monthlyPayment": 3800.00,
+            "dueDate": "2027-06-30"
+          }
+        ],
+        "monthlyRevenue": {
+          "average": 70000.00,
+          "lastThreeMonths": [75000.00, 68000.00, 67000.00]
+        },
+        "monthlyExpenses": {
+          "raw_materials": 28000.00,
+          "payroll": 20000.00,
+          "rent": 6000.00,
+          "utilities": 2200.00,
+          "marketing": 1200.00
+        },
+        "creditScore": 680,
+        "paymentHistory": {
+          "onTimePayments": 55,
+          "latePayments": 3,
+          "averageDelay": 6
+        }
+      }
+    }
+  ]
+}

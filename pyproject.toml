@@ -1,0 +1,49 @@
+[project]
+name = "multi-agent-starter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.11.14",
+    "azure-search-documents==11.6.0b4",
+    "chainlit>=2.4.302",
+    "fastapi[standard]>=0.115.12",
+    "python-dotenv>=1.1.0",
+    "semantic-kernel[azure,mcp]==1.28.1",
+    "opentelemetry-api>=1.18.0",
+    "opentelemetry-sdk>=1.18.0",
+    "opentelemetry-exporter-otlp>=1.18.0",
+    "opentelemetry-instrumentation-fastapi>=0.52b1",
+    "azure-monitor-opentelemetry>=1.6.5",
+    "opentelemetry-instrumentation-aiohttp-client>=0.52b1",
+    "uvicorn[standard]>=0.34.0",
+    "mcp[cli]>=1.6.0",
+    "httpx>=0.28.1",
+    "starlette>=0.41.3",
+    "argparse>=1.4.0",
+    "microsoft-agents-core>=0.0.0a3",
+    "microsoft-agents-authorization>=0.0.0a3",
+    "microsoft-agents-connector>=0.0.0a3",
+    "microsoft-agents-client>=0.0.0a3",
+    "microsoft-agents-builder>=0.0.0a3",
+    "microsoft-agents-authentication-msal>=0.0.0a3",
+    "microsoft-agents-copilotstudio-client>=0.0.0a3",
+    "microsoft-agents-hosting-aiohttp>=0.0.0a3",
+    "microsoft-agents-storage>=0.0.0a3",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.11.4",
+]
+
+[[tool.uv.index]]
+name = "testpypi"
+url = "https://test.pypi.org/simple/"
+explicit = true
+default = true
+
+[[tool.uv.index]]
+name = "pypi"
+url = "https://pypi.org/simple/"
