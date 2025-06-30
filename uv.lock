@@ -1373,7 +1373,7 @@ wheels = [
 ]
 
 [[package]]
-name = "multi-agent-starter"
+name = "sdk-agent-with-python"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

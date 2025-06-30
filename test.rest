@@ -1,0 +1,111 @@
+POST http://localhost:3978/api/messages
+Content-Type: application/json
+
+{
+  "type": "message",
+  "text": "Hello, world!",
+  "from": {
+    "id": "user-123",
+    "name": "User"
+  },
+  "deliveryMode": "expectReplies",
+  "recipient": {
+    "id": "bot-456",
+    "name": "Bot"
+  },
+  "conversation": {
+    "id": "conv-789"
+  },
+  "channelId": "webchat",
+  "serviceUrl": "https://webchat.botframework.com/"
+}
+
+###
+
+POST http://localhost:3978/api/messages
+Content-Type: application/json
+
+{
+    "type": "message",
+    "id": "1234567890",
+    "timestamp": "2025-06-27T14:30:00.000Z",
+    "localTimestamp": "2025-06-27T07:30:00.000-07:00",
+    "localTimezone": "America/Los_Angeles",
+    "serviceUrl": "https://smba.trafficmanager.net/apis/",
+    "channelId": "msteams",
+    "from": {
+        "id": "29:1234567890abcdef",
+        "name": "John Doe",
+        "aadObjectId": "12345678-1234-1234-1234-123456789012"
+    },
+    "conversation": {
+        "id": "19:1234567890abcdef@thread.v2",
+        "name": "General",
+        "isGroup": true,
+        "conversationType": "channel",
+        "tenantId": "12345678-1234-1234-1234-123456789012"
+    },
+    "recipient": {
+        "id": "28:1234567890abcdef",
+        "name": "My Bot"
+    },
+    "textFormat": "markdown",
+    "attachmentLayout": "list",
+    "locale": "en-US",
+    "text": "Hello! This is a sample message with **markdown** formatting.",
+    "speak": "Hello! This is a sample message.",
+    "inputHint": "acceptingInput",
+    "summary": "Sample message",
+    "suggestedActions": {
+        "to": ["test"],
+        "actions": [
+        {
+            "type": "imBack",
+            "title": "Yes",
+            "value": "yes"
+        },
+        {
+            "type": "imBack",
+            "title": "No",
+            "value": "no"
+        }
+        ]
+    },
+    "entities": [
+        {
+        "type": "mention",
+        "mentioned": {
+            "id": "29:1234567890abcdef",
+            "name": "John Doe"
+        },
+        "text": "@John Doe"
+        }
+    ],
+    "channelData": {
+        "tenant": {
+        "id": "12345678-1234-1234-1234-123456789012"
+        },
+        "team": {
+        "id": "19:1234567890abcdef@thread.tacv2"
+        }
+    },
+    "replyToId": "1234567889",
+    "label": "user-message",
+    "importance": "normal",
+    "deliveryMode": "expectReplies",
+    "listenFor": ["help", "assistance", "support"],
+    "textHighlights": [
+        {
+        "text": "important",
+        "occurrence": 1
+        }
+    ],
+    "semanticAction": {
+        "id": "action-123",
+        "entities": {}
+    }
+}
+
+
+###
+GET http://localhost:3978/health

@@ -1,5 +1,6 @@
 from semantic_kernel.functions import kernel_function
-from services.cashflow_service import CashflowService
+
+from app.agents.cashflow.services.cashflow_service import CashflowService
 
 # import aiohttp
 # async def fetch(session, url):
@@ -15,7 +16,7 @@ from services.cashflow_service import CashflowService
   #   async with aiohttp.ClientSession() as session:
   #     url = "http://api.example.com/cost"
   #     response = await fetch(session, url)
-  #     return response['cost'] 
+  #     return response['cost']
 
 class CashflowPlugin:
   def __init__(self, cashflow_service: CashflowService):

@@ -18,11 +18,11 @@ from semantic_kernel.connectors.ai.function_choice_behavior import (
 )
 from semantic_kernel.agents import ChatCompletionAgent
 
+from app.agents.cashflow.plugin import CashflowPlugin
 from app.agents.cashflow.services.cashflow_service import CashflowService
 from app.models.custom_agent import CustomAgent
 
 
-from .plugin import CashflowPlugin
 
 
 class CashflowAgent(ChatCompletionAgent, CustomAgent):
