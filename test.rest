@@ -3,6 +3,29 @@ Content-Type: application/json
 
 {
   "type": "message",
+  "text": "What's cashflow for SMB001",
+  "from": {
+    "id": "user-123",
+    "name": "User"
+  },
+  "deliveryMode": "expectReplies",
+  "recipient": {
+    "id": "bot-456",
+    "name": "Bot"
+  },
+  "conversation": {
+    "id": "conv-789"
+  },
+  "channelId": "webchat",
+  "serviceUrl": "https://webchat.botframework.com/"
+}
+
+###
+POST http://localhost:3978/api/messages
+Content-Type: application/json
+
+{
+  "type": "message",
   "text": "Hello, world!",
   "from": {
     "id": "user-123",

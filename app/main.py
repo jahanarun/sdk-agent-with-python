@@ -26,6 +26,7 @@ from microsoft.agents.core.models import (
 )
 from microsoft.agents.authentication.msal import MsalAuth
 
+from app.agents.cashflow.activity_handler import CashflowAgentActivityHandler
 from app.agents.empty.agent import EmptyAgent
 from app.config import DefaultConfig
 
@@ -54,7 +55,7 @@ CHANNEL_CLIENT_FACTORY = RestChannelServiceClientFactory(CONFIG, DefaultConnecti
 ADAPTER = CloudAdapter(CHANNEL_CLIENT_FACTORY)
 
 # Create the Agent
-AGENT = EmptyAgent()
+AGENT = CashflowAgentActivityHandler()
 
 
 # Listen for incoming requests on /api/messages

@@ -2,22 +2,6 @@ from semantic_kernel.functions import kernel_function
 
 from app.agents.cashflow.services.cashflow_service import CashflowService
 
-# import aiohttp
-# async def fetch(session, url):
-#   async with session.get(url) as response:
-#     return await response.json()
-
-
-  # @kernel_function(
-  #     name="GetCost",
-  #     description="Get the cost of the product",
-  # )
-  # async def get_cost(self):
-  #   async with aiohttp.ClientSession() as session:
-  #     url = "http://api.example.com/cost"
-  #     response = await fetch(session, url)
-  #     return response['cost']
-
 class CashflowPlugin:
   def __init__(self, cashflow_service: CashflowService):
     self.cashflow_service = cashflow_service
