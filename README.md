@@ -1,11 +1,4 @@
-uv add --default-index https://test.pypi.org/simple/ microsoft-agents-core
-uv add --default-index https://test.pypi.org/simple/ microsoft-agents-core
-uv add --default-index https://test.pypi.org/simple/ microsoft-agents-authorization
-uv add --default-index https://test.pypi.org/simple/ microsoft-agents-connector
-uv add --default-index https://test.pypi.org/simple/ microsoft-agents-client
-uv add --default-index https://test.pypi.org/simple/ microsoft-agents-builder
-uv add --default-index https://test.pypi.org/simple/ microsoft-agents-authentication-msal
-uv add --default-index https://test.pypi.org/simple/ microsoft-agents-copilotstudio-client
-uv add --default-index https://test.pypi.org/simple/ microsoft-agents-hosting-aiohttp
-uv add --default-index https://test.pypi.org/simple/ microsoft-agents-storage
-uv add --default-index https://test.pypi.org/simple/ microsoft.agents.builder.app
+```shell
+uv sync
+uv run python -m app.main
+```

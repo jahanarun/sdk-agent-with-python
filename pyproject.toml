@@ -7,8 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "aiohttp>=3.11.14",
     "azure-search-documents==11.6.0b4",
-    "chainlit>=2.4.302",
-    "fastapi[standard]>=0.115.12",
+    "fastapi[standard]>=0.115.14",
     "python-dotenv>=1.1.0",
     "semantic-kernel[azure,mcp]==1.28.1",
     "opentelemetry-api>=1.18.0",
@@ -39,11 +38,22 @@ dev = [
 ]
 
 [[tool.uv.index]]
-name = "testpypi"
-url = "https://test.pypi.org/simple/"
-explicit = true
+name = "pypi"
+url = "https://pypi.org/simple/"
 default = true
 
 [[tool.uv.index]]
-name = "pypi"
-url = "https://pypi.org/simple/"
+name = "testpypi"
+url = "https://test.pypi.org/simple/"
+explicit = true
+
+[tool.uv.sources]
+microsoft-agents-core = { index = "testpypi" }
+microsoft-agents-authorization = { index = "testpypi" }
+microsoft-agents-connector = { index = "testpypi" }
+microsoft-agents-client = { index = "testpypi" }
+microsoft-agents-builder = { index = "testpypi" }
+microsoft-agents-authentication-msal = { index = "testpypi" }
+microsoft-agents-copilotstudio-client = { index = "testpypi" }
+microsoft-agents-hosting-aiohttp = { index = "testpypi" }
+microsoft-agents-storage = { index = "testpypi" }

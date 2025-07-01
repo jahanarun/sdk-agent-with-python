@@ -2,10 +2,9 @@ from semantic_kernel.connectors.ai.open_ai import AzureChatCompletion
 from semantic_kernel.agents import ChatCompletionAgent
 from app.agents.cashflow.plugin import CashflowPlugin
 from app.agents.cashflow.services.cashflow_service import CashflowService
-from app.models.custom_agent import CustomAgent
 
 
-class CashflowAgent(CustomAgent):
+class CashflowAgent():
 
     @staticmethod
     def what_can_i_do() -> str:
